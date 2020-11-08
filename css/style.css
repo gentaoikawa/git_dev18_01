@@ -101,9 +101,30 @@ h3{
 width:100%;
 }
 .about ul{
-	max-width: 100%;
+	/*max-width: 100%;*/
+/*	height: auto;
+	 display:flex; */
+	/* overflow: hidden;
+	 float: left;*/
+	/*   justify-content: center;
+  align-items: center;
+  width: 25vw;
+  height: 25vw;
+  flex-wrap: nowrap;*/
+
+}
+.collapse3{
+	/*	max-width: 100%;*/
 	height: auto;
 	 display:flex; 
+/*	 overflow: hidden;*/
+/*	 float: left;*/
+/*	   justify-content: center;
+  align-items: center;
+  width: 25vw;
+  height: 25vw;*/
+  flex-wrap: nowrap;
+  justify-content: center;
 
 }
 .p{
